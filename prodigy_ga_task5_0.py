@@ -13,11 +13,11 @@ Original file is located at
   "metadata": {
     "colab": {
       "provenance": [],
-      "toc_visible": true,
+      "toc_visible": True,
       "gpuType": "T4",
       "mount_file_id": "1dFKlAv5niQg_HLQlAIuR6W7rsS09KQLP",
       "authorship_tag": "ABX9TyO11k/g6jjZcVDGLNGHdg3Y",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
