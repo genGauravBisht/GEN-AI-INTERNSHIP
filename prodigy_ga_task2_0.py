@@ -15,7 +15,7 @@ Original file is located at
       "provenance": [],
       "gpuType": "T4",
       "authorship_tag": "ABX9TyPXwwA5clcD1tZs1/Oa5hnm",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
