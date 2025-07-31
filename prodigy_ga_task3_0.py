@@ -16,7 +16,7 @@ Original file is located at
       "gpuType": "T4",
       "mount_file_id": "1CMiAMPMiZLOfwIikoTgVvqOvcXpMp_M2",
       "authorship_tag": "ABX9TyP1S8kLAEqRt0QaiQIi/pxU",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
